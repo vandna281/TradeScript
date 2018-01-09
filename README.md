@@ -14,3 +14,4 @@ Steps :
 
 #Install web drivers
 https://chromedriver.storage.googleapis.com/index.html?path=2.29/
+Change path of web driver in script file, to the one where you install your driver.
