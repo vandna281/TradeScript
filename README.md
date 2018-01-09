@@ -11,3 +11,6 @@ Steps :
 7) Then install selenium after entering virtual mode with command "pip install selenium"
 8) Switch to script code directory in virtual mode, like "cd /apps/TestScript".
 9) Run script using "python script.py"
+
+#Install web drivers
+https://chromedriver.storage.googleapis.com/index.html?path=2.29/
